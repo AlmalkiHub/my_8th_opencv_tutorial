@@ -1,1 +1,5 @@
-# my_8th_opencv_tutorial
+####**In this tutorial I did the following:**
+* Convolution Operations
+* Blurring
+* Denoising
+* Sharpening
